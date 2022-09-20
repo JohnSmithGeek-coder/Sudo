@@ -142,7 +142,7 @@ void generateThread::generateGrid(int mode)
     int percent;
     switch (mode) {
     case 1:
-        percent = 500; break;
+        percent = 5000; break;
     case 2:
         percent = 7500; break;
     case 3:
