@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/board.png</file>
+        <file>image/erase.png</file>
+        <file>image/lose.png</file>
+        <file>image/note.png</file>
+        <file>image/ok.png</file>
+        <file>image/pen.png</file>
+        <file>image/play.png</file>
+        <file>image/space.png</file>
+        <file>image/tips.png</file>
+        <file>image/undo.png</file>
+        <file>image/wait.png</file>
+        <file>image/easy.png</file>
+        <file>image/medium.png</file>
+        <file>image/expert.png</file>
+        <file>image/hard.png</file>
+        <file>image/volume.png</file>
+        <file>image/mainicon.png</file>
+        <file>image/averageTime.png</file>
+        <file>image/begin.png</file>
+        <file>image/longestTime.png</file>
+        <file>image/shortestTime.png</file>
+        <file>image/trend.png</file>
+        <file>image/win.png</file>
+        <file>image/winrate.png</file>
+        <file>image/button_off.png</file>
+        <file>image/button_on.png</file>
+        <file>image/compliant.png</file>
+        <file>image/help.png</file>
+        <file>image/info.png</file>
+        <file>image/settings.png</file>
+        <file>image/settings-icon.png</file>
+        <file>image/rule1.png</file>
+        <file>image/rule2.png</file>
+        <file>image/rule3.png</file>
+    </qresource>
+</RCC>
